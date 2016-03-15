@@ -1,6 +1,7 @@
 import cuisine
 
 PACKAGE_ENSURE = (
+	'wget',
 	'apache2',
 	'libapache2-mod-php5',
 	'php5-gd'

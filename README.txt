@@ -2,6 +2,9 @@ Example Cuisine  / Fabric file
 
 This is a simple example for a Cuisine & Fabric script. Make sure the user has sudo rights on the target system. This script is used through fabric.
 
+This example was created within a hour working time together with the example of "invisible island" below. I recommend reading the cuisine source, because it is very well documented & verbose-like written.
+
+
 !! Do not use on production system, because a security step on the apache configuration was ommited. !!
 
 System-Requirements:
